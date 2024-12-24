@@ -181,7 +181,7 @@ pygments_style = 'sphinx'
 
 intersphinx_mapping = {
    'py3': ('https://docs.python.org/3', None),
-   'python': ('https://docs.python.org/3', None),
+   'python': ('https://docs.python.org/', None),
    'rtd': ('https://docs.readthedocs.io/en/latest/', None),
    'txaio': ('https://txaio.readthedocs.io/en/latest/', None),
    'autobahn': ('https://autobahn.readthedocs.io/en/latest/', None),
