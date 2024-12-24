@@ -1,5 +1,6 @@
 # docs
-sphinx>=6.1.3
+# prevent error sphinxcontrib-images 'status_iterator' is not defined
+sphinx>=6.1.3, <8.0
 sphinxcontrib-images>=0.9.4
 
 # FIX conflict:
